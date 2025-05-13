@@ -7,6 +7,7 @@
 LearnGenAI is a **web-based AI tutor** that delivers personalized learning experiences using the **DeepSeek API**. Built with modern web technologies, it offers interactive lessons, real-time Q&A, and adaptive feedback for students and educators.
 
 ![LearnGenAI Demo Screenshot](assets/home.PNG) 
+(assets/gen.PNG)
 
 ## ✨ Features
 - **Interactive UI**: Clean, responsive interface built with **Tailwind CSS**.
