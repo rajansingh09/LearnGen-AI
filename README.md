@@ -25,4 +25,4 @@ LearnGenAI is a **web-based AI tutor** that delivers personalized learning exper
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/learngenai.git
+   git clone https://github.com/rajansingh09/learngenai.git
