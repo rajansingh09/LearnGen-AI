@@ -77,7 +77,9 @@ Demo visuals and walkthroughs will be added shortly.
 
 🧑‍💻 Author
 
-Rajan Singh
+**Rajan Kumar**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rajansingh09)
+
 
 ⭐️ Support
 
